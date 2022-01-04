@@ -1,0 +1,12 @@
+{
+	"paths": {},
+	"network": {
+		"forwarded_ports": {
+			"8088": 5000,
+			"8089": 5001
+		},
+		"private_network_ip": "172.127.0.8",
+		"public_network_ip": "172.20.50.189"
+	},
+	"hostname":"asterisk-16.9.0-lab"
+} 
