@@ -42,7 +42,7 @@ make samples
 echo "Installing the asterisk startup script ..."
 make config
 echo "Copying pre-configured files for testing ..."
-cp -r /vagrant/asterisk-config-files/ /etc/asterisk/
+cp /vagrant/asterisk-config-files/* /etc/asterisk/
 echo "Finished setup."
 
 
