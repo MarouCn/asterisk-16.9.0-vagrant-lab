@@ -22,7 +22,8 @@ apt-get -y install \
     libedit-dev \
     build-essential \
     libssl-dev \
-    python-dev
+    python-dev \
+    make
 
 
 # Download asterisk 16.9.0
