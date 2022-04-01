@@ -20,10 +20,6 @@ apt-get -y install \
     libsrtp-dev \
     uuid-dev \
     libedit-dev \
-    build-essential \
-    libssl-dev \
-    python-dev \
-    make
 
 
 # Download asterisk 16.9.0
